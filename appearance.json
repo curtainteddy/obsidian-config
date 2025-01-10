@@ -1,0 +1,13 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#ff2e89",
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "textFontFamily": "Jost",
+  "enabledCssSnippets": [
+    "Image Alignment"
+  ]
+}

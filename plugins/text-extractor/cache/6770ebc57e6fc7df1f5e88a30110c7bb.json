@@ -1,0 +1,1 @@
+{"path":"@Media/Attachments/Pasted image 20241022043315.png","text":"Calculate P(B) To use Bayes' Theorem, we need P(B), the total probability of a positive test result. This can be calculated using the law of total probability: P(B) = P(B|A) - P(A) + P(B|-A) - P(~4)","libVersion":"0.3.2","langs":"eng"}
