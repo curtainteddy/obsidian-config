@@ -1,6 +1,8 @@
 # Obsidian Config
 This repository contains my custom configuration for initializing new Obsidian vaults. It includes settings, themes, and plugins.
 
+<img src="https://zip.peshal.xyz/u/YwarWT.png">  </img>
+
 ## Installation
 
 To use this configuration in your Obsidian vault:
@@ -12,8 +14,8 @@ To use this configuration in your Obsidian vault:
    _(Or download the repository as a ZIP file and extract it.)_
 
 2. Navigate to your Obsidian vault directory. The path typically looks like this:
-   ```bash
-   /path/to/your/vault
+   ```
+   C:\Users\Peshal\Obsidian\Personal Vault\
    ```
 3. Locate the **.obsidian** folder in your vault directory. If it doesn't exist, create one.
 
